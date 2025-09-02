@@ -71,8 +71,8 @@ const HomePage = ({ segments }) => {
           className="text-center lg:text-left max-w-xl"
         >
           <h1 className="font-display text-4xl md:text-6xl font-bold mb-6">
-            Where <span className="gradient-text">Identity</span> Orbits{' '}
-            <span className="gradient-text-green">Purpose</span>
+            "Where <span className="gradient-text">Identity</span> Orbits{' '}
+            <span className="gradient-text-green">Purpose"</span>
           </h1>
           <p className="font-body text-lg md:text-xl text-white/80 mb-8 leading-relaxed">
             Ruang personal digital yang mengorbitkan karya, pemikiran, dan perjalanan hidup.
@@ -96,7 +96,7 @@ const HomePage = ({ segments }) => {
             className="text-center mb-16"
           >
             <h2 className="font-display text-3xl md:text-5xl font-bold mb-6">
-              Empat <span className="gradient-text">Dimensi</span> Kehidupan
+              Dalam 4 <span className="gradient-text">Dimensi</span> Kehidupan
             </h2>
             <p className="font-body text-lg text-white/70 max-w-3xl mx-auto">
               Setiap segmen adalah portal ke dalam semesta kecil yang penuh arah, kepekaan, dan panggilan hidup.
